@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<product>
+    <iphone>
+        <title>iphone 13 pro max</title>
+        <price> $1099</price>
+        <description> avaiable in 4 colours  </description>
+    </iphone>
+
+    <iwatch>
+        <title>Series 7</title>
+        <price>$449 </price>
+        <description> The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy.  </description>
+    </iwatch>
+
+    <ipad>
+        <title>ipad mimi</title>
+        <price> $499</price>
+        <description>  Mega power.
+            Mini sized. </description>
+    </ipad>
+
+
+</product>
